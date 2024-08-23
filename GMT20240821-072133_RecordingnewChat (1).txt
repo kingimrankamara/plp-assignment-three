@@ -1,0 +1,625 @@
+00:54:04	Chidubem Okakpu:	it is hot
+00:54:08	Timileyin Ekundayo:	25
+00:54:09	Bartasa Mbiti:	the else statement
+00:54:09	EUSTACE NGURE:	Hot
+00:54:13	Benjamin Daniel:	It's hot
+00:54:14	Cheryl Jeruto:	hot
+00:54:14	Archie Mkala:	It is Hot Outside! Wear Shorts
+00:54:14	Peter Kwena:	It's hot outside. wear shots
+00:54:14	Abraham Olatunji:	it's cold
+00:54:15	Carolyne Cherono:	It’s hot outside
+00:54:15	KEN GACHOKI NJUGUNA:	Its Hot outside! Wear Shorts.
+00:54:16	Kevin Oduor:	the code has an issue
+00:54:16	Philile Hlalukana:	it's hot outsidewear shots
+00:54:16	ronny omondi:	hot
+00:54:16	Vincent Mashigo:	I'ts hot outside! Wear Shorts.
+00:54:16	Gideon Adaji:	it's hot outside. wear a short
+00:54:16	Grace Kagwe:	its hot
+00:54:18	MarkPaul Chege Mureithi:	its hot
+00:54:18	Jacob Odeny:	It's hot
+00:54:19	vincent kyalo:	hot
+00:54:19	Emmanuel Mmeah:	it's hot
+00:54:19	Samuel Kang'ethe:	Its warm
+00:54:20	Timothy Adekonojo:	it's hot outside
+00:54:21	Nnaedozie Ezebo:	2 outputs
+00:54:21	Kelvin Njeru:	hot
+00:54:21	David Nelko:	Hot
+00:54:22	Jachi Othniel:	Hot
+00:54:23	Tricia Nshuti:	Hot because it is greater that 25
+00:54:24	Oluwaseyi Olukosi:	it cold
+00:54:25	Olusola Omoleye:	it's hot
+00:54:25	Joshua Nyabuto:	hOt
+00:54:25	SHARON JEROTICH:	it's hot outside wear shorts
+00:54:25	Clifford Ochieng':	first statement
+00:54:25	Abraham Olatunji:	the last argument
+00:54:26	Alex Mumo:	very hot
+00:54:28	Ruben ADAMAH COMBEY:	hot
+00:54:28	Darlington Abanwa:	hot
+00:54:29	D K:	It's hot outside wear shorts
+00:54:30	Joseph Oindi:	Hot
+00:54:30	YUSUF ATIBA:	Hot
+00:54:30	Mphatso Soko:	hOIT
+00:54:31	Adizua Okoroafor:	it will print
+It's hot
+00:54:31	Leah Njambi:	it's hot
+00:54:32	John Maluki:	hot
+00:54:32	Abgirl Shoniwa:	are we not suppose to prompt the user to enter temperature
+00:54:33	James Brian Mukunya:	It's hot outside! Wear Shorts.
+00:54:33	Chrispine Sisso:	hot wear
+00:54:34	Philile Hlalukana:	it's hot outside, wear shots
+00:54:34	MUTUNGA MULINGE:	Its hot
+00:54:34	Chibuikem Christopher:	hot
+00:54:35	JACOB MWITA:	hot
+00:54:36	Samuel Agboola:	run the temperature code! put the temperature at 10, see the output
+00:54:36	Thabiso Mbatsane:	hot
+00:54:36	MarkPaul Chege Mureithi:	it will print both
+00:54:37	Rhoda Alewi:	Cold
+00:54:37	Kelvin Njoroge:	hot
+warm
+00:54:37	Babatunde Fasasi:	hot
+00:54:38	Brenes C:	its hot outside! Wear Short
+00:54:39	sabitiyu Muhammad:	chili
+00:54:39	Maxwell Omondi:	both,30 is >25 and still >15
+00:54:40	Samuel Kang'ethe:	Its warm since it prints by line and the ast argument is corrrect
+00:54:41	Ayodele Ojo:	hot and wam
+00:54:41	Oluwaseyi:	Hot
+00:54:41	Lebohang Motseki:	Hot
+00:54:41	Samuel Kang'ethe:	Its warm since it prints by line and the ast argument is corrrect
+00:54:42	Bolaji Kazeem:	It's hot outside
+00:54:42	Samuel Kang'ethe:	Its warm since it prints by line and the ast argument is corrrect
+00:54:42	Samuel Kang'ethe:	Its warm since it prints by line and the ast argument is corrrect
+00:54:42	Reuben Enahoro:	It is hot outside...
+00:54:42	Samuel Kang'ethe:	Its warm since it prints by line and the ast argument is corrrect
+00:54:43	Samuel Kang'ethe:	Its warm since it prints by line and the ast argument is corrrect
+00:54:43	Samuel Kang'ethe:	Its warm since it prints by line and the ast argument is corrrect
+00:54:43	Simon Mwangi:	It's hot outside
+00:54:43	Samuel Kang'ethe:	Its warm since it prints by line and the ast argument is corrrect
+00:54:43	Samuel Kang'ethe:	Its warm since it prints by line and the ast argument is corrrect
+00:54:44	Samuel Kang'ethe:	Its warm since it prints by line and the ast argument is corrrect
+00:54:44	Edna Wambui:	hot
+00:54:44	VINCENT KIMANTHI:	It's hot outside! Wear shorts.
+00:54:46	Kisiaki Juma:	Its Hot Outside
+00:54:46	Alex Kinyua:	it's cold! Brrr!
+00:54:48	Kelvin Njoroge:	both parameters are true
+00:54:49	Patrick Gicheha:	It hot
+00:54:52	Meshach Adedotun:	It's hot outside, wear short
+00:54:53	Alphonce Omondi:	extremely hot
+00:54:54	Cyrus Kimanzi:	is hot like my gaufwend
+00:55:02	Jerome Mberia:	it's hot
+00:55:04	Kisiaki Juma:	First Line is True, hence Python line after the other
+00:55:18	Kisiaki Juma:	Rune Line after the other**
+00:55:19	Bolaji Kazeem:	its, hot outside! wear shorts.
+00:55:39	kenneth macharia:	its hot
+00:55:59	Weiss Arina:	both parameters are true
+00:56:22	Edna Wambui:	how ar you commenting all of them at once?
+00:56:26	Kevin Oduor:	the logic is wrong the else case should be "<"
+00:56:37	Chibuikem Christopher:	please throw light on loops
+00:56:43	emmanuella ebenuwah:	is logic involved here?
+00:56:46	Temitayo Oyeleke:	please I need the Control flow code line
+00:56:48	Kisiaki Juma:	Select + /
+00:57:00	Kisiaki Juma:	Ctrl+/
+01:14:50	Vincent Mashigo:	error
+01:14:57	Timothy Adekonojo:	Good morning, Mark!
+01:14:57	Ayodele Ojo:	Good morning Mark
+01:14:58	Nkweti Angcelia:	Good morning Mark
+01:14:59	Gideon Adaji:	it will only greet Mark
+01:14:59	D K:	Good morning MarkGood morning Doreen
+01:15:00	Peterson Kagiri:	Error
+01:15:00	Adizua Okoroafor:	Hello Doreen
+01:15:00	EUSTACE NGURE:	The first 2 na mark
+01:15:02	James Brian Mukunya:	error
+01:15:02	Abdulwasiu Abubakar:	Only Mark will work
+01:15:02	Matthew Ezekiel:	Good morning mark
+01:15:03	Martin Khamala:	Good morning Mark
+01:15:04	Josephine Mukiti:	Greetings mark
+01:15:05	Darlington Abanwa:	Error
+01:15:05	Nnaedozie Ezebo:	Good morning Mark and Good morning Doreen
+01:15:05	Muheez Akindipe:	Good Morning Mar!
+01:15:06	Ruth Iroanusi:	Good morning Mark
+01:15:06	Nkweti Angcelia:	Good morning doreen
+01:15:06	VINCENT KIMANTHI:	Good Morning, Mark
+01:15:06	Mafeng Daniel:	Good morning mark
+01:15:06	David Nelko:	Good morning Mak
+01:15:07	YUSUF ATIBA:	Good morning, Mark
+01:15:07	Fredrick Onyango:	Good morning, mark!
+01:15:08	Martin Khamala:	Good morning DOREEN
+01:15:08	Adizua Okoroafor:	Good Morning Doreen
+01:15:08	Christine Ngatha:	hello mark
+01:15:08	dennis kevin:	hello mark
+01:15:10	Chibuikem Christopher:	good morning mark
+01:15:10	Alex Kinyua:	greetings to doreen
+01:15:10	Patrick Gicheha:	good morning doreen
+01:15:11	Kisiaki Juma:	Doreen, won't print out due to error
+01:15:11	DUNCAN ZEVAI:	Good morning Mark
+01:15:12	lovina adepoju:	Doreen hello
+01:15:13	Mercy Chepngetich:	3 names
+01:15:13	Emmanuel Mmeah:	All will be printed
+01:15:14	KEN GACHOKI NJUGUNA:	Good Morning Mark
+01:15:14	Nathan Kipchumba:	Come back a little bit
+01:15:14	MarkPaul Chege Mureithi:	it will only greet mark
+01:15:15	Brian Otieno:	good morning,mark
+01:15:15	JANE GAKURU:	Good morning, Mark
+01:15:15	Emmanuel Olorode:	Mark will be greeting but Doreen might not be greeted
+01:15:15	Richard Ochola:	error 401
+01:15:16	Mafeng Daniel:	Good morning Doreen
+01:15:17	Adeniyi Adeogun:	Good morning Mark an duren
+01:15:17	Thanduxolo Rado:	error
+01:15:18	Matthew Ezekiel:	Good morning mark
+01:15:19	Adizua Okoroafor:	Good Morning Mark
+01:15:20	Kisiaki Juma:	Hello Mark
+01:15:20	Chidubem Okakpu:	good morning Mark
+01:15:20	David Nelko:	Good morning Doreen
+01:15:20	paul imoukhedeme:	both
+01:15:21	Babatunde Fasasi:	good morning mark
+good morning doreen
+01:15:22	Christine Ngatha:	hello mark and doreen
+01:15:23	Muheez Akindipe:	Good Morning Mark!
+01:15:23	James Chege:	Hello Doreen
+01:15:24	Abdifatah Bonaya:	it will display all
+01:15:24	Lebohang Motseki:	Error for Doreen. Good morning Mark
+01:15:25	Samuel Kagunda:	Last one will not work
+01:15:25	Brian Wakhale:	Good Morning Mark and Dorren
+01:15:25	Enock Mukiibi:	my vs code does not run
+01:15:26	Cheryl Jeruto:	Mark,Doreen, Alice, Bob
+01:15:26	KEN GACHOKI NJUGUNA:	Good Morning Doreen
+01:15:26	Leimon Abdikarin mohamed:	I have a question can you please answer for me I need a help
+01:15:27	YUSUF ATIBA:	Syntax error
+01:15:28	Philile Hlalukana:	mark will print by Dorine won't print
+01:15:28	victor maluki:	need the .greet to work
+01:15:29	Darlington Abanwa:	Doreen wont print
+01:15:29	dennis kevin:	hello mark and dorren
+01:15:30	Chibuikem Christopher:	doreen-error
+01:15:31	Tracy Muswii:	Good morning to everyname you have typed
+01:15:32	kelvin nyakundi:	NO MODULE :GREETINGS
+01:15:32	Franc Otieno:	goodmorning mark
+01:15:34	Vincent Mashigo:	Pekejeng Maureen
+01:15:37	Moshood Abidoye:	good morning Alice.
+error
+01:15:38	Franc Otieno:	an error on dorine
+01:15:39	Kelvin Mosoine:	good morning Evans
+01:15:40	Bakinde Ademola:	the reason why they will not be a Doreen she's because you didn't put the dot greet for doreen
+01:15:40	Carolyne Cherono:	error
+01:15:40	Adaeze Iroanya:	Hello, Mark
+01:15:40	Collins Otsieno:	The one with Doreen will output Error
+01:15:42	Namus Ambrose:	addition of good morning mark and Doreen,Alice and bob
+01:15:47	Enock Mukiibi:	my vscode does  not run, help
+01:15:53	Franc Otieno:	didn't include the . greet
+01:15:55	Mafeng Daniel:	. Greet
+01:15:58	Muheez Akindipe:	>grret in Doreen
+01:15:59	Dominic Kipkoech:	Module not found
+01:16:00	Kisiaki Juma:	Syntax error
+01:16:01	Babatunde Fasasi:	error line 34
+01:16:01	Tracy Muswii:	no error from my side
+01:16:04	Kisiaki Juma:	I mentioned
+01:16:09	Eyo Ekpenyong:	the second print has no greet
+01:16:10	Hellen Ndolo:	good morning yesterday's recording???
+01:16:14	Basiru Abubakar:	Good morning everyone
+01:16:44	MATTHEW JOHN:	I need yesterday recording
+01:16:51	Emmanuel Harrison:	Coding is ongoing
+01:16:58	Basiru Abubakar:	I didn't get yesterday recording please
+01:17:12	Peter Kwena:	Can you apply the module to a list?
+01:17:26	Bill Arnold:	are we using flask while working with python?
+01:17:53	titilayo victoria ajayi:	I will have to take my time to watch the training as a beginner i'm inlove with coding and I can't wait to be guru
+01:18:01	sandra sibanda:	Can you please do an example with lists
+01:18:02	DAMARICE KURE:	kindly go back to the greetings.py folder
+01:18:10	Edna Wambui:	what is the work of the python path or why is it necessary to copy it in the environment variables system please
+01:18:18	kennedy Rotich:	Having a problem day 2 and day3 the README is empty there are no instructions
+01:18:40	Cliff Nyandusi:	I have not understood.
+01:18:42	Brian Otieno:	thank you for the review
+01:18:45	Enock Mukiibi:	my vscode does not run, please help
+01:18:53	Cliff Nyandusi:	I think I need extra lessons.
+01:18:57	Mafeng Daniel:	Aren't we learning debugging today
+01:18:58	Chibuikem Christopher:	please throw more light on loops
+01:18:59	Emmanuel Olorode:	please help, I'm not seeing the Python file in my program files despite installing it
+01:18:59	Lavin Odhiambo:	l don't have that lower part
+01:19:07	Nathan Kipchumba:	Click greeting .py i want to check on something
+01:19:10	Lebohang Motseki:	Day 2 readme file is still emty.
+01:19:27	SULEIMAN MASHUHULI:	I need yesterday and day 1 recordings please
+01:19:29	Enock Mukiibi:	thanks
+01:19:40	Catherine Warigo:	Enjoying the class so much.✨✨✨
+01:19:43	Olatomide Adesiyan:	still cant do yesterdays assignment, cant see anything
+01:20:00	Simon Mwangi:	I can't see the python in my program files
+01:20:10	Chidimma Orji:	today's class is still locked because I haven't done yesterday's assignment. The assignment is empty
+01:20:15	Okoth Davis:	I can't see yesterday's assignment
+01:20:16	MUTUNGA MULINGE:	I am stuck on adding the tabs in vscode.
+01:20:21	Zuhura Shikanga:	Am unable to see my day 2 assignment
+01:20:34	Peter Kwena:	kindly give a brief on how to download the video on lms. mine is redirecting me to zoom. kindly🙏
+01:20:38	Kelvin Mosoine:	can't see yesterday's assignment please help
+01:20:45	Ollus Ndomu:	This is game! I have been self learning for months and it's now make so much sense.
+01:20:55	Tricia Nshuti:	Day 2 Assignment has been posted
+01:20:58	Mustyhotoro:	Please disable the chat on the screen it's boring
+01:21:14	Sunday Okoko:	Pls sir, I’m having issues with winget. How can I go about it?
+01:21:28	Clifford Ochieng':	@peter Kwema there is a download button at the top right corner of the screen once you enter  the passcode
+01:21:33	Olatomide Adesiyan:	cant see todays module because cant do yesterdays assignment
+01:21:35	Abdulwasiu Abubakar:	Pls some of your questions are not relevant, use google or chatGBT to get solution to some of your questions. There is w3schools and MDN cor more info.
+01:21:39	Umar Ahmad:	Libraries
+01:21:40	Abongile Madikizela:	Once you are done with Assignment 1, Commit it, then what? How do I submit?
+01:21:41	Njabulo Phakathi:	PK there is a download tab on zoom page you redirected to
+01:21:43	Christine Ngatha:	hello can you tell us how to access assignments
+01:39:18	Clifford Ochieng':	done
+01:39:19	Timothy Adekonojo:	I have downloaded it
+01:39:19	kelvin nyakundi:	DONE
+01:39:20	Clare Vihenda:	done
+01:39:20	Nnaedozie Ezebo:	COMPLETED
+01:39:21	Abdulwasiu Abubakar:	Downloaded.
+01:39:22	DAMARICE KURE:	done
+01:39:23	Emmanuel Mmeah:	done
+01:39:23	Emmanuel Ndineze:	done
+01:39:23	Cheryl Jeruto:	no
+01:39:24	Alex Mumo:	still downloading
+01:39:24	kelvin nyakundi:	DONE
+01:39:24	Brian Wakhale:	DONE.
+01:39:24	Jaffery Ndisho:	It's close.
+01:39:25	Samuel Kang'ethe:	Done
+01:39:25	Meshach Adedotun:	Done
+01:39:26	Hellen Ndolo:	not yet
+01:39:26	R K:	Done dada
+01:39:26	MUTUNGA MULINGE:	done ready to install
+01:39:26	Adeyemi Omogboye:	Done
+01:39:26	Charlotte Muthoni:	NOT YET DONE
+01:39:27	Wycliff Vuzigu:	The music is loud
+01:39:27	Brenes C:	done
+01:39:27	Thabiso Mbatsane:	done
+01:39:28	Muheez Akindipe:	DONE
+01:39:28	VINCENT KIMANTHI:	Almost there
+01:39:28	Kelvin Njeru:	done
+01:39:28	Lebohang Motseki:	Done
+01:39:29	Chillavert Shunza:	Done!!
+01:39:29	Appolinary Kilimba:	DOWNLOAD DONE
+01:39:29	Emmanuel Olorode:	still downloading
+01:39:29	Muheez Akindipe:	DONE
+01:39:29	Ode Emmanuel:	done
+01:39:30	Vanessa Boro:	done
+01:39:30	Loveth Felix:	done
+01:39:30	meshark kemei:	done
+01:39:31	Esther Githinji:	complete
+01:39:31	Muheez Akindipe:	DONE
+01:39:32	Conrad Otieno:	done
+01:39:32	Muheez Akindipe:	DONE
+01:39:33	Tricia Nshuti:	NOt yet
+01:39:33	Patrick Gicheha:	done
+01:39:35	DANIEL OSUAGWU:	Your network is super fast
+01:39:36	Muheez Akindipe:	DONE
+01:39:36	Nomhle Kgwedi:	Done
+01:39:36	MarkPaul Chege Mureithi:	not yet
+01:39:37	Amarachi Anna Omegor:	still downloading
+01:39:37	Henry Amahwa:	notr yet
+01:39:37	Enock Mukiibi:	almost
+01:39:38	Muheez Akindipe:	DONE
+01:39:39	Muheez Akindipe:	DONE
+01:39:39	Nathan Kipchumba:	Nimemaliza
+01:39:40	Daniel Chege:	done
+01:39:40	Muheez Akindipe:	DONE
+01:39:41	Cameline Njoroge:	done
+01:39:41	Joshua Nyabuto:	150 mb to go, not yet
+01:39:42	Muheez Akindipe:	DNOE
+01:39:43	VINCENT KIMANTHI:	TURN OFF THE MUSIC
+01:39:45	DANIEL OSUAGWU:	My still downloading
+01:39:45	Okoth Davis:	not yet
+01:39:45	Brian Otieno:	done
+01:39:45	Enock MISOI:	Done
+01:39:45	Wycliff Vuzigu:	THE MUSIC IS LOUD
+01:39:46	Muheez Akindipe:	DONE
+01:39:46	EUSTACE NGURE:	DONE
+01:39:47	Wycliff Vuzigu:	THE MUSIC IS LOUD
+01:39:47	Calvet Makali:	still downloading
+01:39:47	Muheez Akindipe:	DONE
+01:39:48	Moses Muiga:	DONE
+01:39:49	Wycliff Vuzigu:	THE MUSIC IS LOUD
+01:39:49	Muheez Akindipe:	DONE
+01:39:49	Gabriel Andima:	the music is distracting
+01:39:50	angela jeptoo:	Done
+01:39:51	Wycliff Vuzigu:	THE MUSIC IS LOUD
+01:39:51	Shiita Misambo:	Done
+01:39:53	Mohamed Shuaib Fornah:	Not yet
+01:39:53	MOSES MICHAEL:	Done
+01:39:56	Wycliff Vuzigu:	THE MUSIC IS LOUD
+01:39:57	Kevin Nzonzo:	reduce the music volume kindly
+01:40:01	Wycliff Vuzigu:	THE MUSIC IS LOUD
+01:40:04	Sharon Nkatha:	turn off the background music
+01:40:10	Cyrus Kimanzi:	music ain't sweet
+01:40:10	Arede Akiya:	still downloading
+01:40:16	Martin Khamala:	Done
+01:40:17	Mphatso Soko:	Done
+01:40:17	Kabir Alaaya Kabir:	the bass of the music is too much
+01:40:18	Hellen Ndolo:	not yet done
+01:40:18	Emmanuel Mmeah:	The music is loud
+01:40:21	Clifford Ochieng':	hii ni doba gani mzee
+01:40:23	Lebohang Motseki:	Yes
+01:40:25	Evans Muthuri:	Turn of the music
+01:40:26	Cyrus Kimanzi:	change music
+01:40:28	Mohamed Shuaib Fornah:	Okaythe music sound is cool
+01:40:32	Wycliff Vuzigu:	THE MUSIC IS LOUD
+01:40:33	VINCENT KIMANTHI:	PLEASE TURN OFF THE MUSIC
+01:40:40	Jubril Shotayo:	while downloading I saw this:If you've installed or plan to install the Flutter SDK, it includes the full Dart SDK. The Flutter SDK includes the dart CLI tool in Flutter's bin folder.What shld I do??
+01:40:44	Amarachi Anna Omegor:	please take dowloading tutorial video on lms again please
+01:40:47	Cyrus Kimanzi:	Eka kaveve kazoze 😂
+01:40:48	Desmond Chiedochie:	done
+01:40:48	Amarachi Anna Omegor:	please take dowloading tutorial video on lms again please
+01:40:49	Oluwaseyi Olukosi:	done
+01:40:49	Amarachi Anna Omegor:	please take dowloading tutorial video on lms again please
+01:40:51	Amarachi Anna Omegor:	please take dowloading tutorial video on lms again please
+01:40:52	VINCENT KIMANTHI:	Jaba haha
+01:40:55	Faith Tinarwo:	🤣
+01:40:57	Jacob Mahe:	done
+01:41:04	Clifford Ochieng':	JABA
+01:41:06	Gardern Eggs:	so we are chickens?
+01:41:10	Siyabonga James:	the background music is disturbing, I can't hear what is said,
+01:41:14	Calvet Makali:	😂😂😂😂😂
+01:41:15	R K:	I am enjoying the EDM Mix
+01:41:17	Mphatso Soko:	Are we allowed to use android studio for flutter?
+01:41:17	Godfrey Kamau:	😅
+01:41:27	D K:	Share the link for your music
+01:41:29	Earvine Munene:	balance njugu utameza jaba 🤣
+01:41:31	Leimon Abdikarin mohamed:	The live session of yesterday and the day before yesterday it wasn't working for me I just join the live session only today and I'm not understanding anything how I'm going to answer the assignment then? can you please help me
+01:41:34	Lebohang Motseki:	Enjoying the music
+01:41:39	Nicholas Udoh:	pls help to navigate to the previous videos on LMS
+01:41:40	Amarachi Anna Omegor:	please take downloading tutorial video on lms again please
+01:41:41	Amarachi Anna Omegor:	please take downloading tutorial video on lms again please
+01:41:43	Amarachi Anna Omegor:	please take downloading tutorial video on lms again please
+01:41:44	Isaac Maina:	😂😂
+01:41:47	Charlotte Muthoni:	Can the music be turned off
+01:42:02	Clifford Ochieng':	WINRAR BETTER
+01:42:09	D K:	We want the link to your music!!
+01:42:38	Cyrus Kimanzi:	the music is sooo sweet 🧁
+01:42:48	Mirriam Mutanu:	wakenya eti kupumzika n wapi🤣🤣🤣🤣🤣🤣🤣🤣🤣
+01:43:02	Jack Omondi:	mbinguni
+01:43:03	kenneth macharia:	🥳 I love the music
+01:43:10	Cyrus Kimanzi:	generation Zion tunataka tuekewe beat ya worship Sasa 😂🤭
+01:43:19	kenneth macharia:	binguni
+01:43:22	sandra sibanda:	music is disturbing please
+01:43:26	Cyrus Kimanzi:	Nigerias are in the house stop using Swahili 😂
+01:43:30	Kabir Alaaya Kabir:	that jam is making me go crazy 🤣
+01:43:37	Calvet Makali:	heaven is the goal 😁😁
+01:43:41	Brian Wakhale:	GENERATION Z TUNATAKA ANGUKA NAYO🕺
+01:43:52	Dominic Kipkoech:	Play Anguka Nayo as yor background haha
+01:43:56	Hope Kiprono:	Arbantone hitsong loading...
+01:43:58	Charlotte Muthoni:	ADHD people struggling with the music in the background😂
+01:44:03	Cyrus Kimanzi:	am from Nigeria what is anguka nayo😂
+01:44:35	Brian Otieno:	please pardon
+01:44:44	Cyrus Kimanzi:	I love stevo simple boy the only musician i like from kenya
+01:44:46	kenneth macharia:	falling with everything
+01:44:47	Chrispine Sisso:	😅😅😅😅. wabongo hawakosekanagi
+01:44:48	Calvet Makali:	just fall 😂😂
+01:44:55	Calvet Makali:	omo please fall
+01:44:59	kenneth macharia:	😂😂😂
+01:45:07	Mirriam Mutanu:	how can I unkenya myself  🤣🤣🤣🤣🤣
+01:45:08	Lavin Odhiambo:	kindly repeat on ths 7zip
+01:45:39	Cyrus Kimanzi:	mwamukie ata andu makwa
+01:45:58	Chrispine Sisso:	you are busy chating how can he repeat?
+01:46:00	Bartasa Mbiti:	repeat please
+01:46:01	Mirriam Mutanu:	nesa vyu
+01:46:02	Henry Amahwa:	repeat on zip
+01:46:06	Amarachi Anna Omegor:	please take it again
+01:46:07	Bolaji Kazeem:	Done
+01:46:10	Clare Vihenda:	repeat
+01:46:13	Bartasa Mbiti:	repeat
+01:46:15	kenneth macharia:	you can neverunkenya yourself my furend😂
+01:46:18	Emmanuel Harrison:	Ctrl+v for pasting
+01:46:19	Alex Mumo:	repeat from zip
+01:46:20	Naom Nyangau:	Please repeat
+01:46:26	Amarachi Anna Omegor:	you are fast
+01:46:35	Basiru Abubakar:	ur fast sir
+01:46:41	Siyabonga James:	No offence but, the background music is disturbing the lesson, I can't hear you!
+01:46:48	Brian Wakhale:	DORINE CHEZA ANGUKA NAYO🕺
+01:47:10	Kabir Alaaya Kabir:	Thank you Doreen for the music🙏
+01:47:22	Chrispine Sisso:	kwani doreen anajua swahili?
+01:47:38	Leimon Abdikarin mohamed:	Dorine can you please answer my qeuention
+01:47:44	Lebohang Motseki:	Music is so cool
+01:48:20	Dominic Kipkoech:	Dorine request for anguka nayo as the background music
+01:48:28	Cyrus Kimanzi:	Doreen is from kayombotole . she is my sister in law
+01:48:45	Brian Wakhale:	🤣cyrus
+01:48:52	Calvet Makali:	the music ain't loud maybe your phone has issues coz we can clearly get Chaklin
+01:49:02	Chrispine Sisso:	😅😅😅
+01:49:24	alvin magu:	I missed yesterday where can I get the recordings
+01:49:40	Lucy Kimani:	yes
+01:49:44	Leimon Abdikarin mohamed:	I missed two
+01:49:49	Peter Kwena:	that's cool👍
+01:50:01	Alister Nyaura:	Same here
+01:50:02	Cyrus Kimanzi:	but a worship music would be cool. my sister in law Doreen fanya mambo ama tukukatae kwetu🤣
+01:50:31	Brian Wakhale:	DORINE AS A GEN Z,NAOMBA ANGUKA NAYO🕺
+01:50:52	Cyrus Kimanzi:	Brian ukona jokes sana🤣
+01:50:59	alvin magu:	hey where can we who missed get the video ya jana am floating
+01:51:56	Cyrus Kimanzi:	mirriam mutanu musyi niva?
+01:52:27	Olatunde Rufai:	Please come again oooo
+01:52:28	Ruth Iroanusi:	I'm lost cos I didn't see "More Option"
+01:52:33	Olatunde Rufai:	Please come again ooo
+01:52:39	Olatunde Rufai:	Please come again oo
+01:52:41	Purity Wakesho:	after your are done with this class,can you pliz send the links of the recordings
+01:53:09	Lucy Kimani:	repeat
+01:53:20	Hellen Ndolo:	hizo recordings ziko??
+01:53:33	Millicent  Adzepa Oprang:	Sir please repeat the environment
+01:53:46	Cyrus Kimanzi:	class recording would be beneficial to some slow learners kindly 🙈😄
+01:53:50	Loveth Felix:	I'm totally lost😭
+01:54:03	Jacob Odeny:	Repeat how to open terminal
+01:54:04	Linus Langat:	It is OK. Up and running.
+01:54:07	Samuel Mungai:	mine as well
+01:54:07	Edward Kakooza:	mine is okay
+01:54:09	Martin Khamala:	Prof, you are a bit fast. Im lost. we cant follow and do practically at the same time
+01:54:23	Esethu Pakosi:	Cyrus it's not even funny , you are rude
+01:54:28	Emmanuel Mmeah:	done
+01:54:30	Kisiaki Juma:	You didn't run installation, younjust copied from download to C and then copy address to Environment variables
+01:54:32	Brian Wakhale:	INSTALLED, Dart SDK version: 3.5.1 (stable) (Tue Aug 13 21:02:17 2024 +0000) on "windows_x64"
+01:54:34	David Muthui:	it says dart is not recognised
+01:54:35	Samuel Kang'ethe:	After copying the path address, what next?
+01:54:35	MUTUNGA MULINGE:	Mine is good. but have used CMD to check
+01:54:39	Bismark Cheruiyot:	done and dusted sir
+01:54:46	Esethu Pakosi:	if you are a fast leaner what are you even doing here
+01:54:53	Faith Tinarwo:	mine is fine
+01:55:07	Brian Wakhale:	DONE
+01:55:10	David Muthui:	those who ed cmd how did you do it
+01:55:15	Emmanuel Ndineze:	done
+01:55:17	Timothy Adekonojo:	DONE
+01:55:18	Samuel Kang'ethe:	C:\dart-sdk\bin
+01:55:19	Samuel Kang'ethe:	C:\dart-sdk\bin
+01:55:25	Cyrus Kimanzi:	totally lost
+01:55:26	Alex Mumo:	confused
+01:55:27	Gladys Mailu:	Done
+01:55:30	Umar Ahmad:	Can take the edit environment variables process?
+01:55:39	Amarachi Anna Omegor:	please do again to check it
+01:55:47	Amarachi Anna Omegor:	please come again
+01:55:49	Mohamed Abdi:	can you repeat plz
+01:55:50	Cyrus Kimanzi:	most of us are lost 😭
+01:55:54	Amarachi Anna Omegor:	don't do flutter yet
+01:55:57	Samuel Kang'ethe:	After copying dart (bin) path address , what next?
+01:55:58	Samuel Kang'ethe:	After copying dart (bin) path address , what next?
+01:55:58	Samuel Kang'ethe:	After copying dart (bin) path address , what next?
+01:55:58	Samuel Kang'ethe:	After copying dart (bin) path address , what next?
+01:55:58	Samuel Kang'ethe:	After copying dart (bin) path address , what next?
+01:55:59	Samuel Kang'ethe:	After copying dart (bin) path address , what next?
+01:55:59	Samuel Kang'ethe:	After copying dart (bin) path address , what next?
+01:55:59	Samuel Kang'ethe:	After copying dart (bin) path address , what next?
+01:55:59	Samuel Kang'ethe:	After copying dart (bin) path address , what next?
+01:56:00	Samuel Kang'ethe:	After copying dart (bin) path address , what next?v
+01:56:32	David Muthui:	KINDLY SOME HAVE ERRORS PLEASE HEP
+01:57:06	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:57:07	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:57:08	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:57:10	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:57:11	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:57:12	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:57:14	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:57:16	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:57:19	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:57:41	Evans Muthuri:	Where do we get yessterday's recording?
+01:58:08	emmanuella ebenuwah:	very lost
+01:58:22	Ezekiel Padmore Ekow Mantey:	me too
+01:58:22	Calvet Makali:	am lost at the unzipping part
+01:58:25	Ezekiel Padmore Ekow Mantey:	I'm lost
+01:58:25	Clare Vihenda:	kindly go back
+01:58:33	emmanuella ebenuwah:	this is too fast paced
+01:58:38	Cyrus Kimanzi:	can we be given minutes we interact and help each other
+01:58:41	Edna Wambui:	please repeat
+01:58:42	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:58:44	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:58:45	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:58:46	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:58:48	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:58:49	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+01:59:29	Cyrus Kimanzi:	I think a meeting should be planned in Kigali Rwanda so that we all meet there and interact
+01:59:31	Mafeng Daniel:	It's 8g
+02:00:03	Brian Wakhale:	CYRUS NATAKA RWANDAN BABES BANA,HAHA.
+02:00:32	R K:	Its a gig
+02:01:02	Cyrus Kimanzi:	mirriam mutanu
+02:01:46	Cyrus Kimanzi:	Doreen got a very sweet sweet voice.. I can't live without her 😋🙌
+02:02:11	Brian Wakhale:	I THOUGHT SHE'S YOUR IN-LAW,HAHA.
+02:02:21	Emmanuel Mmeah:	go over the download
+02:02:47	Chrispine Sisso:	she is nyama ya hamu
+02:02:48	Patrick Gicheha:	We should create a WhatsApp group we interact more
+02:02:57	Naom Nyangau:	Can you repeat that from from VS cade please
+02:03:19	Lucy Kimani:	incase you have issue installing dart and flutter I can help
+02:03:27	Cyrus Kimanzi:	I need to see Doreen photo.. haha my heart is bleeding of love 🤣
+02:03:35	Ode Emmanuel:	please I am still having the issue of dart on my cmd. My cmd is still not seeing dart
+02:03:59	Cyrus Kimanzi:	I think a Whatsapp group would help us interact more
+02:03:59	Cantons Omondi:	I am here for the first time, I can't even unlock the  course content. I'll appreciate any guide
+02:04:24	Reuben Enahoro:	Cyrus is disturbing,
+02:04:34	Cyrus Kimanzi:	omondi i can help you. only 500 naira per hour
+02:04:41	Clinton Mwangi:	u can code Doreen for u're specified 🤣😂needs cyrus
+02:04:42	Mirriam Mutanu:	yes kimazi
+02:04:47	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+02:04:48	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+02:04:50	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+02:04:50	Mirriam Mutanu:	nitafute what's up banaa
+02:04:52	Muheez Akindipe:	The Videos on how to install both Dart and Flutter is on the DAY 3 CURRICULLUM
+02:04:59	Amarachi Anna Omegor:	mine is not downloading
+02:05:05	Reuben Enahoro:	Can the chat pop up be disabled?
+02:05:12	Cyrus Kimanzi:	mirriam mutanu utaleta number
+02:05:21	Mirriam Mutanu:	0798228862
+02:05:23	Laura Macharia:	can you go through pasting in the environmental variable again
+02:05:28	Enock Mukiibi:	Asante
+02:05:29	Mirriam Mutanu:	harakisha
+02:05:42	Joshua Nyabuto:	repeat on setting the Variable environment
+02:05:46	Basiru Abubakar:	but if I log my dashboard I am not seeing the lecture vedeo why and what happen please
+02:05:52	Christine Ngatha:	all assignments please
+02:06:20	Olusola Omoleye:	There is no problem in today's assignment too
+02:06:33	Lewis Kirega:	The asisgnment is  black
+02:06:40	Patrick Gicheha:	miriam is that your WhatsApp number
+02:06:44	Chrispine Sisso:	the country code for that phone number plz
+02:06:47	Clifford Ochieng':	black?
+02:07:04	Patrick Gicheha:	254
+02:07:25	Emmanuel Ndineze:	I have submitted the assignment for day one but got a mail from GitHub that it failed.
+02:07:39	Mohamed Abdi:	we need a WhatsApp group so that we help each other
+02:07:50	Cyrus Kimanzi:	mutanu I'll call you tuongee kikamba
+02:07:59	Brian Wakhale:	CYRUS?
+02:08:01	Patrick Gicheha:	my assignment is not loading
+02:08:04	Samuel Kang'ethe:	My song (pumped up kicks)
+02:08:04	Clifford Ochieng':	kuna groups mzee
+02:08:06	Mary Ann Wangui:	send link for whatsapp
+02:08:13	Sharon Nkatha:	There is a WhatsApp group
+02:08:13	Emmanuel Ndineze:	Is there a format to type answers?
+02:08:15	Nelly Chepkemoi:	The updated assignments are different from what we received earlier can we just edit the latest
+02:08:16	Emmanuel Ndineze:	Is there a format to type answers?
+02:08:18	Emmanuel Ndineze:	Is there a format to type answers?
+02:08:20	Emmanuel Ndineze:	Is there a format to type answers?
+02:08:27	Clinton Mwangi:	cyrus to the world😂😂😂😂
+02:08:28	Abongile Madikizela:	Thank You
+02:08:31	Nicholas Udoh:	But no videos on my LMS
+02:08:34	Bravin Ojweke:	is using ai for the assignment considered as cheating?
+02:08:36	Henry Amahwa:	thank you
+02:08:49	Tunde OKEYEMI:	please could you share link to this song
+02:08:50	Nathaniel Lagat:	do we submit the path of url because the submission requires a link😭
+02:08:59	Alex Mumo:	Kimanzi na mutanu nichau yu
+02:09:21	Khuliso Junior Ravhuravhu:	Is it okay do type assignment on Word?
+02:09:40	yagavu chance stevo:	the copy part doesn't copy the whole url , is it okay if I copy it from the top of the browser directly
+02:09:45	Chrispine Sisso:	send group link ya WhatsApp here
+02:09:46	Cyrus Kimanzi:	a Whatsapp group would help us sanaa
+02:09:49	Brian Wakhale:	ANY RWANDAN BABE?
+02:09:51	Solomon Okomowho:	I'd like to have a link to the music playlist you are playing for this session. Kind of great for studying
+02:09:54	Sharon Nkatha:	https://chat.whatsapp.com/I17xglS0xRAFYYr5KVyiaw
+02:10:00	Clifford Ochieng':	WORD AJEEEEEE Hawa majirani bwana
+02:10:18	Fred Juma:	still empty readme
+02:10:24	Brian Wakhale:	RWANDESE WHERE ARE YOU GUYS?
+02:10:33	Patrick Gicheha:	that's nyc we join guys
+02:10:45	georgy maina:	I submitted my day 1 assignment but as I was trying to tackle today's assignment I am seeing day 1 assignment labeled as failed. trying to see why i am seeing the same answers provided are no different from mine just that mine are in paragraph form and not statement form. I was enquiring on which criteria is seen as failed and passed.
+02:10:46	Kabir Alaaya Kabir:	this is how day 2 looks like
+02:11:00	Lubanga James:	I cant find the class recordings
+02:11:09	Ode Emmanuel:	my dart is not showing on my cmd... please help
+02:11:13	Susan Nzuki:	how can I download the recorded classes
+02:11:14	Appolinary Kilimba:	when i copy path the link for my answered assignment copies it as READ.me and when i submit it rejects
+02:11:16	Antony Maina:	Kindly repeat flutter installation
+02:11:23	georgy maina:	I submitted my day 1 assignment but as I was trying to tackle today's assignment I am seeing day 1 assignment labeled as failed. trying to see why i am seeing the same answers provided are no different from mine just that mine are in paragraph form and not statement form. I was enquiring on which criteria is seen as failed and passed.
+02:11:25	Enock MISOI:	Can we get class recording?
+02:11:29	Basiru Abubakar:	I can't find class recoding please
+02:11:42	Lubanga James:	Touch on class recordings please
+02:11:45	YUSUF ATIBA:	Day 1 assignment. I cloned the Repository. Can I edit it and resubmit it
+02:11:50	sodiq hakeem:	good morning, pls, all the assignment should be submitted when? pls
+02:11:50	DAMARICE KURE:	When we answer questions and submit we get the red lines on the repo
+02:11:51	Okoth Davis:	yesterday there was an assignment sent and I submitted it will I be able to submit the one on the GitHub?
+02:11:53	Muheez Akindipe:	PLEASE SHARE THE MUSIC TITLE
+02:11:59	Lewis Kirega:	The repository has nothing
+02:11:59	Amarachi Anna Omegor:	please how do I download the tutorial on lms
+02:12:04	Amarachi Anna Omegor:	please how do I download the tutorial on lms
+02:12:05	Basiru Abubakar:	please help me I am not get access to download my class recoding
+02:12:06	R K:	How do we check if Flutter is installed via Terminal
+02:12:07	Moshood Abidoye:	use any mode to type your answers
+just commit changes
+02:12:09	Amarachi Anna Omegor:	please how do I download the tutorial on lms
+02:12:14	Lucy Kimani:	emmanuel ensure you put a space between  dart --version
+02:12:25	Peterson Kagiri:	WHAT IF I HAVE SUBMITTED THE ASSIGNMENT AND IT SAYS AUTOGRADIN ERROR
+02:12:34	Promise Uantioje:	As a novice who is passionate about Tech, I am determined not to give up but put in more efforts.
+yesterday's class was very confusing but today it's a little better. everything is kind of looking like Chinese..
+02:12:41	Emmanuel Ndineze:	I want to speak with you sir
+02:13:00	Nicholas Udoh:	can i call?
+02:13:01	Basiru Abubakar:	please if I login in to my dashboard I am not anything what happen please
+02:13:03	Ollus Ndomu:	On my learning space (LMS), the only lesson open is Day1, the rest are locked.
+02:13:05	Moshood Abidoye:	@muheez music is cool
+02:13:05	Meshach Adedotun:	Please, I want to ask you the autograding on git. I check it it scored me zero after submission of assignment
+02:13:06	R K:	No prob, its now working ive done flutter --version
+02:13:13	Muheez Akindipe:	PLEASE THE MUSIC TITLE
+02:13:19	Darlington Abanwa:	please can we create a WhatsApp group where we can help each other and also tackle some challenges we might be facing its just my suggestion
+02:13:28	DUNCAN ZEVAI:	Thank you for the session.
+02:13:28	Muheez Akindipe:	PLEASE THE MUSIC TITLE
+02:13:36	R K:	Dart and Flutter installed, done and dusted
+02:13:45	Enock Mukiibi:	asante
+02:13:47	Lavin Odhiambo:	we already have WhatsApp groups
+02:13:47	Chrispine Sisso:	i have questions
+02:13:47	Tunde OKEYEMI:	some should help with title of the song
+02:13:47	Muheez Akindipe:	PLEASE MUSIC TITLE
+02:13:50	Emmanuel Ndineze:	i have a question ooo
+02:13:50	EUSTACE NGURE:	🥰
+02:13:58	Dominic Kipkoech:	cool
+02:13:59	Muheez Akindipe:	MUSIC TITLE
+02:14:01	Cyrus Kimanzi:	it was a nice class
+02:14:02	Reuben Enahoro:	Thank you sir
+02:14:04	Lebohang Motseki:	🙏🏻
+02:14:05	Dominic Kipkoech:	music tittle
